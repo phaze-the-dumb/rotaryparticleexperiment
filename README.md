@@ -4,6 +4,9 @@
 
 **Disabling bloom gives about 3x more fps, with little graphics loss**
 
+Config can be changed in `/assets/js/main.js`
+![](https://i.phazed.xyz/?3pGn617hy_x_p)
+
 100 Particles, Bloom, No Trails, Tracers
 ![](https://i.phazed.xyz/?B-_DuT8dQnLfy)
 
